@@ -4,6 +4,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 
 ## Datasets Utilizados
 Este proyecto utiliza tres datasets proporcionados por el bootcamp:
+
 plans.csv: los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
 
 users_latam.csv: información de clientes: edad, ciudad, fecha de registro, plan contratado.
