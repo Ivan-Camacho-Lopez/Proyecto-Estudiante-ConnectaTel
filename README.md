@@ -1,5 +1,6 @@
 # Proyecto-Estudiante-ConnectaTel
-## El objetivo del proyecto es identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
+## Objetivo 
+Identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
 Se utilizaron dataset proporcionados por el Bootcamp los cuales fueron:
 plans.csv: los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
